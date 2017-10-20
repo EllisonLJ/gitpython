@@ -1,4 +1,4 @@
-#!python
+﻿#!python
 #coding=utf-8
 #将给定的列表按要求，在屏幕上打印出来
 
@@ -18,6 +18,7 @@ def printTable(tableData):
 
 
 #定义列表，并调用函数进行打印
+#2017年10月20号上传到git进行版本控制
 tableData=[["apples","oranges","cherries","banana"],
 ["Alice","Boo","Carol","David"],
 ["dogs","cats","moose","gooose"]
